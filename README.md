@@ -4,4 +4,4 @@ HTML file was created and all the code were in the script.js file that was inclu
 
 The script tag from guvi was added and all the test cases are passed.
 
-<b>Netlify link:<b> `https://dom-calculator-2.netlify.app/`
+<b>Netlify link:<b> https://dom-calculator-2.netlify.app/
