@@ -6,7 +6,7 @@ heading.textContent = "Dom calculator"
 heading.id = "title"
 
 var para = document.createElement("p")
-para.textContent = "guvi task"
+para.textContent = "guvi task(2)-day15"
 para.id = "description"
 div1.append(heading, para)
 
