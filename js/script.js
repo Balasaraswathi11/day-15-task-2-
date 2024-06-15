@@ -133,7 +133,7 @@ var inputbox=document.getElementById("result")
         }
        
         else if(num=="DEL"){
-            inputbox.value.slice(0,-1);
+           inputbox.value= inputbox.value.slice(0,-1);
         }
         else{
             inputbox.value+=num
